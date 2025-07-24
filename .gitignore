@@ -1,0 +1,52 @@
+vendor/
+composer.lock
+composer.phar
+
+*.iws
+*.launch
+.externalToolBuilders/
+.idea/
+.nb-gradle/
+.project
+.settings/
+atlassian-ide-plugin.xml
+nbactions.xml
+nbbuild/
+nbdist/
+nbproject/private/
+
+build/logs/
+*.log
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+### *** required entries below ***
+###
+### Please do not add anything below this line, your changes will be overwritten
+###
+*.iml
+.DS.d74cb6fe
+__MACOSX/
+.history/
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/363
+!.vscode/extensions.json
+*.code-workspace
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+
+
+
+###
+###                                                                                                                                                                                                                                  git#867
+###
